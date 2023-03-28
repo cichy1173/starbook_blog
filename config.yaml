@@ -1,0 +1,39 @@
+baseURL: localhost
+languageCode: en-us
+title: Blog about Starbook
+theme: papermod
+
+params:
+  env: production
+  description: "Loving Star Labs products? You can learn more here!"
+  author: "cichy1173"
+  ShowCodeCopyButtons: true
+  #   favicon: "/favicon.ico"
+  #   favicon16x16:  "/favicon-16x16.png"
+  #   favicon32x32:  "/favicon-32x32.png"
+  #   apple_touch_icon:  "/apple-touch-icon.png"
+  #   safari_pinned_tab:  "/safari-pinned-tab.svg"
+
+
+
+  homeInfoParams:
+    Title: Welcome on my website
+    Content: This blog was created for users of Star Labs devices. My aim is to bring knowledge together in one place to make it easier for others.
+
+  cover:
+    linkFullImages: true   
+
+menu:
+  main:
+    - identifier: basics
+      name: Starbook Basics 
+      url: /basics/
+      weight: 10
+    - identifier: MyStarbook
+      name: My Starbook
+      url: /mystarbook
+      weight: 20
+    - identifier: About
+      name: About Me
+      url: /about
+      weight: 30
