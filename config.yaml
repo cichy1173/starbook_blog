@@ -1,6 +1,6 @@
 baseURL: localhost
 languageCode: en-us
-title: Blog about Starbook MK VI
+title: StarBlog
 theme: papermod
 
 params:
@@ -17,8 +17,8 @@ params:
 
 
   homeInfoParams:
-    Title: Starbook MK VI fan blog
-    Content: This blog was created for users of Star Labs devices, especially Starbook MK VI. My aim is to bring knowledge together in one place to make it easier for others.
+    Title: StarBlog
+    Content: With love for StarBooks! Check out the news below
 
   cover:
     linkFullImages: true   
