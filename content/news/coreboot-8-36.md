@@ -16,6 +16,6 @@ draft: false
 
 Learn more [HERE](https://github.com/StarLabsLtd/firmware/tree/master/StarBook/MkVI-Intel/coreboot/8.36)
 
-~It is not available in LFVS yet. It can be stable release, but I don't have confirmation.~
+~~It is not available in LFVS yet. It can be stable release, but I don't have confirmation.~~
 
 This is `testing` version
