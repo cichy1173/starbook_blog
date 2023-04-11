@@ -16,7 +16,7 @@ What's new?
 
 Learn more [HERE](https://github.com/StarLabsLtd/firmware/tree/master/StarBook/MkVI-Intel/coreboot/8.37)
 
-I am still waiting for confirmation it is stable or testing. According to release notes Coreboot 8.37 does not bring ITE 1.11. 
+~~I am still waiting for confirmation it is stable or testing.~~ This is `testing` release. According to release notes Coreboot 8.37 does not bring ITE 1.11. 
 
 
 
