@@ -14,7 +14,9 @@ Star Labs released new Coreboot for Starbook MKVI with Intel CPU.
 > - resuming from suspend thats initiated by a display manager
 > - Hide the P2SB
 
-I don't know branch of this release. I think it is Testing, but I am still waiting for confirmation.
+~~I don't know branch of this release. I think it is Testing, but I am still waiting for confirmation.~~
 
-Learn more {HERE](https://github.com/StarLabsLtd/firmware/commit/e6e2397513783e16a9055da6ba3c7b5a4e2ca374)
+**This is testing**
+
+Learn more [HERE](https://github.com/StarLabsLtd/firmware/commit/e6e2397513783e16a9055da6ba3c7b5a4e2ca374)
 
