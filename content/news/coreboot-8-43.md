@@ -20,4 +20,4 @@ Coreboot 8.43 is here and it is based on Coreboot 4.20.
 
 src: https://github.com/StarLabsLtd/firmware/commits/master
 
-New coreboot is not released in LVFS yet. I think, It is `testing`. 
+New coreboot is not released in LVFS yet. I think, It will be `testing`. 
