@@ -1,5 +1,5 @@
 ---
-title: "Coreboot 8.50 released for Starbook MK VI and LabTop MK IV (update: it is testing)"
+title: "Coreboot 8.50 released for Starbook MK VI and LabTop MK IV (update: it is stable)"
 date: 2023-06-14T15:17:19+02:00
 draft: false
 ---
@@ -26,4 +26,8 @@ New Coreboot released for Starbook MK VI and LabTop MK IV.
 
 ### Update:
 
-It is testing release. We are still waiting for new stable release [link](https://fwupd.org/lvfs/devices/com.starlabs.B6-I.coreboot#8d00a10413ee4f4ef1ba5e59f0340fec)
+~~It is testing release. We are still waiting for new stable release [link](https://fwupd.org/lvfs/devices/com.starlabs.B6-I.coreboot#8d00a10413ee4f4ef1ba5e59f0340fec)~~
+
+## Second update:
+
+Something changed on LVFS website and now it is Stable release: https://fwupd.org/lvfs/devices/com.starlabs.B6-I.coreboot#217713da0856a908a458dc09c27447a6
