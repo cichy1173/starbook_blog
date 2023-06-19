@@ -8,7 +8,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-*Last updated: 2023-04-01*
+*Last updated: 2023-06-19*
 
 Here I include information that helps to understand Starbook laptops. I will try to skip over knowledge that can be obtained in a few seconds on internet search engines. I will also not write about the Star Labs company itself, as you can find out everything on their website.
 
@@ -170,6 +170,10 @@ Yes. If a particular coreboot or AMI update brings in a new version of ITE, the 
 It is really easy to do. You need only pendrive formatted to FAT/FAT32, and zip file with wanted EC version. Unzip archive and copy files to pendrive. Then reboot laptop to EFI shell with connected pendrive. I done it, it's easy.
 
 Full, detailed instructions are provided by Star Labs and published [HERE](https://starlabsltd.github.io/firmware/methods/efi_shell/)
+
+### I upgraded firmware and all my settings are gone. What happen?
+
+According to last Sean from Star Labs [comment](https://github.com/StarLabsLtd/firmware/issues/109#issuecomment-1596627015), updating coreboot resets firmware configuration to default values.
 
 ## Getting help
 
