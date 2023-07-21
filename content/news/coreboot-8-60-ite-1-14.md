@@ -18,3 +18,6 @@ What's new in ITE 1.14?
 
 
 You can read more about Coreboot 8.60 [here](https://github.com/StarLabsLtd/firmware/commit/1b2a84075a8772292ed9bbab04ce7017fcd3f8c1)  and about ITE 1.14 [here](https://github.com/StarLabsLtd/firmware/commit/4875515ab36676cd542fce1db89c875106376626)
+
+
+EDIT: Coreboot 8.60 is testing release. More [here](https://fwupd.org/lvfs/devices/com.starlabs.B6-I.coreboot#21f7f7c7045ad506d0c681d557b2264a)
