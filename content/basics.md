@@ -130,10 +130,11 @@ void update_fan_rpm(void)
 How we can see, *Quiet mode* turns fan quite late and not that aggresive. Also *Normal mode*  turns fan late, but more aggresively. 
 
 
-## Can I use Starbook with lid closed?
+### Can I use Starbook with lid closed?
 
-I asked Star Labs about this and the answer is - yes! Full answer:
+I asked Star Labs about this and the answer is - yes! 
 
+Full answer:
 > With the lid closed, it shouldn't be a problem. The air intake is on the underside of the machine and the vent is in the hinge. As long as these are not blocked, then the heat should vent without any problems.
 
 ## Firmware updates
