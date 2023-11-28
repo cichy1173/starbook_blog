@@ -8,7 +8,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-*Last updated: 2023-06-19*
+*Last updated: 2023-11-28*
 
 Here I include information that helps to understand Starbook laptops. I will try to skip over knowledge that can be obtained in a few seconds on internet search engines. I will also not write about the Star Labs company itself, as you can find out everything on their website.
 
