@@ -13,7 +13,7 @@ Star Labs changed naming scheme of Coreboot releases for almost the same like in
 - Tweaked lid behaviour for better functionality
 - Introduced new options to disable the card reader and fingerprint readers for increased customization
 
-Yeah, looks like no we can charge laptop even faster with better charger. It is important to know that original charger is 65 W. 
+Yeah, looks like now we can charge laptop even faster with better charger. It is important to know that original charger is 65 W. 
 
 Also Star Labs changed changed compiler to open-source SDCC (replacing Keil), which helps inn sharign EC code under GPL2. 
 
